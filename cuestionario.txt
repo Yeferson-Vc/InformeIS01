@@ -1,0 +1,6 @@
+CUESTIONARIO: ¿Cuáles son las principales ventajas de la programación recursiva en
+Python?
+Una de las principales razones por la cuales la recursividad es importante 
+en este lenguaje de programacion es que nos permite que una funcion se llame
+asi misma, esto nos permite dar mas eficiencia al algoritmos que
+estemos elaborando.
